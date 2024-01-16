@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/9N4s8Y4/1697465607897-e-1710979200-v-beta-t-Ue-BD3dg453n-X191-Gy-OSi-QR3n29-TWim-UMBj3-Oxk-Gf-A74.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Siyamanga Zweni</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
-<img align="right" alt="me" width="400" src="https://i.ibb.co/JQmZfbj/Whats-App-Image-2023-09-26-at-15-04-23-removebg-preview.png">
+<img align="right" alt="me" width="400" margin-top="-10px" src="https://i.ibb.co/JQmZfbj/Whats-App-Image-2023-09-26-at-15-04-23-removebg-preview.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyamanga-zw&label=Profile%20views&color=0e75b6&style=flat" alt="siyamanga-zw" /> </p>
 
