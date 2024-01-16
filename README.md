@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/FzK60sm4/Office-Design-Tips.jpg)](https://rishavchanda.io)
+[![MasterHead]([https://i.postimg.cc/FzK60sm4/Office-Design-Tips.jpg](https://i.ibb.co/9N4s8Y4/1697465607897-e-1710979200-v-beta-t-Ue-BD3dg453n-X191-Gy-OSi-QR3n29-TWim-UMBj3-Oxk-Gf-A74.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Siyamanga Zweni</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 <img align="right" alt="me" width="400" src="https://i.postimg.cc/8C3nZY00/C12-C2-Siyamanga-Zweni-3.jpg">
